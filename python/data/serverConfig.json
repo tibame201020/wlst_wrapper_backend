@@ -1,1 +1,0 @@
-{"adminURL":"t3://localhost:7001","adminUsername":"weblogic","adminPassword":"weblogic123","setDomainEnv":"D:/Dev/Oracle/wls14/user_projects/domains/base_domain/bin/setDomainEnv.cmd","execWlst":"D:/Dev/Oracle/wls14/wlserver/common/bin/wlst.cmd","deployPath":"D:/Dev/Oracle/wls14/wlserver/server/lib/weblogic.jar"}
