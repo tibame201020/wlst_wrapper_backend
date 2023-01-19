@@ -1,0 +1,1 @@
+[{"name":"test","jndiName":"jdbc/pool/ORDBCBSCoreDSM122","dsURL":"jdbc:oracle:thin:@tsrioda0.tsri.org.tw:1521:tsridb2","user":"CBS","password":"cbsscbss1122T","target":"AdminServer","driverClass":"oracle.jdbc.xa.client.OracleXADataSource"}]
